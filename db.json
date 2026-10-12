@@ -2,23 +2,23 @@
   {
     "tytul": "wycieczka klasowa",
     "tresc": "w pierwszej połowie maja jest planowana wycieczka trzydniowa, prosze zagospodarować czas na ten okres",
-    "rok": "2026",
-    "miesiąc": "09",
-    "dzien": "12"
+    "rok": 2026,
+    "miesiąc": 9,
+    "dzien": 12
   },
   {
     "tytul": "plan obiadów",
     "tresc": "dzisiejszy obiad składa sie z zupy jarzynowej oraz drugiego dania którym jest spagetti z mięsem",
-    "rok": "2026",
-    "miesiąc": "10",
-    "dzien": "7"
+    "rok": 2026,
+    "miesiąc": 10,
+    "dzien": 7
   },
   {
     "tytul": "ogłoszenia",
     "tresc": "jedenastego listopada następuje dzień wolny od szkoły, odpoczywajcie i cieszcie sie wolnością :)",
-    "rok": "2026",
-    "miesiąc": "10",
-    "dzien": "12"
+    "rok": 2026,
+    "miesiąc": 10,
+    "dzien": 12
   }
   
 ]
